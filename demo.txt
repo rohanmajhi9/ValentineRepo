@@ -1,3 +1,10 @@
 My first code
+<<<<<<< HEAD
 my second code
 change in main
+=======
+from feature1
+>>>>>>> feature1
+
+yes merged
+
